@@ -10,6 +10,8 @@
 - **Sofía Angulo**
 
 ---
+link al colab: https://colab.research.google.com/drive/1GI3s7qStbGrjeFuu5kZqlSaLPZldmNZr?usp=sharing 
+---
 
 ## 🎯 Descripción del Proyecto
 
